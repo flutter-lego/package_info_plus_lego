@@ -1,7 +1,7 @@
 name: package_info_plus_lego
 description: "lego that package info plus plugin for flutter."
 #publish_to: 'none'
-#repository: https://github.com/melodysdreamj/lego
+repository: https://github.com/flutter-lego/package_info_plus_lego
 
 version: 1.0.0
 
